@@ -23,4 +23,5 @@ Map<String, dynamic> toJson() => {
   'Birth' : birthyear,
   'Death' : deathyear,
 };  
+
 }
