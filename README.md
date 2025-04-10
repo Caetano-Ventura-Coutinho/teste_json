@@ -1,7 +1,9 @@
 # teste_json
-Projeto de teste para utilização 
-Integrantes: 
+Projeto teste_json
+<br>
+## Integrantes:
 Caetano ventura Coutinho
+<br>
 Isaque Sergio da Silva
 
 
