@@ -1,73 +1,72 @@
 [
-      {
-        "title": "The Thing",
-        "description": "An Antarctic research team encounters a shape-shifting alien that can imitate any creature, leading to paranoia and terror.",
-        "genre": "Horror",
-        "director": "John Carpenter",
-        "poster": "https://theposterdb.com/api/assets/38139"
-      },
-      {
-        "title": "2001: A Space Odyssey",
-        "description": "A visually stunning sci-fi epic exploring human evolution, AI, and cosmic mysteries in deep space.",
-        "genre": "Epic",
-        "director": "Stanley Kubrick",
-        "poster": "https://theposterdb.com/api/assets/63118"
-      },
-      {
-        "title": "Alien",
-        "description": "The crew of the Nostromo battles a terrifying alien life form in this suspenseful and claustrophobic horror classic.",
-        "genre": "Horror",
-        "director": "Ridley Scott",
-        "poster": "https://theposterdb.com/api/assets/27062"
-      },
-      {
-        "title": "The Terminator",
-        "description": "A relentless cyborg assassin is sent from the future to kill Sarah Connor, the mother of a future resistance leader.",
-        "genre": "Action",
-        "director": "James Cameron",
-        "poster": "https://theposterdb.com/api/assets/151292"
-      },
-      {
-        "title": "Blade Runner",
-        "description": "In a dystopian future, a blade runner hunts down rogue androids while grappling with his own humanity.",
-        "genre": "Neo-noir",
-        "director": "Ridley Scott",
-        "poster": "https://theposterdb.com/api/assets/50381"
-      },
-      {
-        "title": "Arrival",
-        "description": "A linguist works to communicate with mysterious alien visitors and unravels profound implications for humanity and herself.",
-        "genre": "Drama",
-        "director": "Denis Villeneuve",
-        "poster": "https://theposterdb.com/api/assets/64299"
-      },
-      {
-        "title": "The Matrix",
-        "description": "A hacker discovers the shocking truth about his reality and leads a rebellion against the machines controlling it.",
-        "genre": "Action",
-        "director": "The Wachowski Sisters",
-        "poster": "https://theposterdb.com/api/assets/195196"
-      },
-      {
-        "title": "Jurassic Park",
-        "description": "A revolutionary theme park with living dinosaurs turns deadly as the prehistoric creatures break free and hunt the visitors.",
-        "genre": "Adventure",
-        "director": "Steven Spielberg",
-        "poster": "https://image.tmdb.org/t/p/original/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg"
-      },
-      {
-        "title": "Dune: Part Two",
-        "description": "Paul Atreides continues his journey on Arrakis, facing new challenges and consolidating his power against formidable foes.",
-        "genre": "Epic",
-        "director": "Denis Villeneuve",
-        "poster": "https://theposterdb.com/api/assets/356990"
-      },
-      {
-        "title": "Back to the Future",
-        "description": "Teenager Marty McFly travels back to 1955 and must ensure his parents meet and fall in love to return to the present.",
-        "genre": "Adventure",
-        "director": "Robert Zemeckis",
-        "poster": "https://image.tmdb.org/t/p/original/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg"
-      }
-    ]
-  
+  {
+    "title": "The Thing",
+    "description": "An Antarctic research team encounters a shape-shifting alien that can imitate any creature, leading to paranoia and terror.",
+    "genre": "Horror",
+    "director": "John Carpenter",
+    "poster": "https://image.tmdb.org/t/p/original/a9RjXOIIB56k2rGoL3Fk3nRHHHQ.jpg"
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "description": "A visually stunning sci-fi epic exploring human evolution, AI, and cosmic mysteries in deep space.",
+    "genre": "Epic",
+    "director": "Stanley Kubrick",
+    "poster": "https://image.tmdb.org/t/p/original/zmmYdPa8Lxx999Af9vnVP4XQ1V6.jpg "
+  },
+  {
+    "title": "Alien",
+    "description": "The crew of the Nostromo battles a terrifying alien life form in this suspenseful and claustrophobic horror classic.",
+    "genre": "Horror",
+    "director": "Ridley Scott",
+    "poster": "https://image.tmdb.org/t/p/original/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg"
+  },
+  {
+    "title": "The Terminator",
+    "description": "A relentless cyborg assassin is sent f  om the future to kill Sarah Connor, the mother of a future resistance leader.",
+    "genre": "Action",
+    "director": "James Cameron",
+    "poster": "https://image.tmdb.org/t/p/original/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg"
+  },
+  {
+    "title": "Blade Runner",
+    "description": "In a dystopian future, a blade runner hunts down rogue androids while grappling with his own humanity.",
+    "genre": "Neo-noir",
+    "director": "Ridley Scott",
+    "poster": "https://image.tmdb.org/t/p/original/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg"
+  },
+  {
+    "title": "Arrival",
+    "description": "A linguist works to communicate with mysterious alien visitors and unravels profound implications for humanity and herself.",
+    "genre": "Drama",
+    "director": "Denis Villeneuve",
+    "poster": "https://image.tmdb.org/t/p/original/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg"
+  },
+  {
+    "title": "The Matrix",
+    "description": "A hacker discovers the shocking truth about his reality and leads a rebellion against the machines controlling it.",
+    "genre": "Action",
+    "director": "The Wachowski Sisters",
+    "poster": "https://image.tmdb.org/t/p/original/qFHE09iQDbpHUBXJ8cFZu9v2ViO.jpg"
+  },
+  {
+    "title": "Jurassic Park",
+    "description": "A revolutionary theme park with living dinosaurs turns deadly as the prehistoric creatures break free and hunt the visitors.",
+    "genre": "Adventure",
+    "director": "Steven Spielberg",
+    "poster": "https://image.tmdb.org/t/p/original/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg"
+  },
+  {
+    "title": "Dune: Part Two",
+    "description": "Paul Atreides continues his journey on Arrakis, facing new challenges and consolidating his power against formidable foes.",
+    "genre": "Epic",
+    "director": "Denis Villeneuve",
+    "poster": "https://image.tmdb.org/t/p/original/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+  },
+  {
+    "title": "Back to the Future",
+    "description": "Teenager Marty McFly travels back to 1955 and must ensure his parents meet and fall in love to return to the present.",
+    "genre": "Adventure",
+    "director": "Robert Zemeckis",
+    "poster": "https://image.tmdb.org/t/p/original/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg"
+  }
+]
